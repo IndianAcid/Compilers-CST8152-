@@ -2,8 +2,8 @@
 * File name:       buffer.c
 
 * Compiler:        MS Visual studio 2015
-* Author:          Divyang Shah  040 850 157
-* Course:          CST 8152 – Compilers, Lab Section: 010
+* Author:          Divyang Shah  
+* Course:          CST 8152 â€“ Compilers, Lab Section: 010
 * Assignment:      01
 * Due Date:        9th Feb, 2018
 * Professor:       Sv. Ranev
@@ -530,8 +530,8 @@ int b_mode(Buffer * const pBD) {
 *                      returns the non-negative value of inc_factor (cast as unsigned char then size_t)
 *
 * WARNINGS:            format warning when using [-Wformat=]
-*                      (warning: format ‘%u’ expects argument of type ‘unsigned int’,
-*                      but argument 2 has type ‘size_t {aka long unsigned int}’ [-Wformat=])
+*                      (warning: format â€˜%uâ€™ expects argument of type â€˜unsigned intâ€™,
+*                      but argument 2 has type â€˜size_t {aka long unsigned int}â€™ [-Wformat=])
 **********************************************************************/
 size_t b_incfactor(Buffer * const pBD) {
 
