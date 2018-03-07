@@ -2,8 +2,8 @@
 * File name : buffer.h
 
 * Compiler : MS Visual studio 2015
-* Author : Divyang Shah  040 850 157
-* Course : CST 8152 – Compilers, Lab Section : 010
+* Author : Divyang Shah 
+* Course : CST 8152 â€“ Compilers, Lab Section : 010
 * Assignment : 01
 * Due Date :  9th Feb, 2018
 * Professor : Sv.Ranev
